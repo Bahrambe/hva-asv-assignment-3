@@ -1,5 +1,5 @@
 ##  HvA ASV :: Assignment 3 (v1)
-This is an introductory exercise about Continuous Integration. You will work with the Jenkins tool, and will create jobs to compile, package and deploy applications in a staging environment.
+This is an introductory exercise about Continuous Integration. You will work with the Jenkins tool, and will create jobs to compile, package and deploy applications in a staging environment. ddd
 
 ## Prerequisites
 You must have an IDE to work on this project. We recommend using the IntelliJ IDEA Community Edition. This IDE has good integration with Maven and JUnit.
